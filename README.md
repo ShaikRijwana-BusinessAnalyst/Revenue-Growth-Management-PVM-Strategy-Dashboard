@@ -32,7 +32,7 @@ Headline revenue growth of 0.11% conceals a structural deterioration: $28.60B in
 
 ## Dashboard Preview
 
-![Revenue Growth Management PVM Dashboard](images/dashboard_preview.png)
+![Revenue Growth Management Dashboard](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Revenue-Growth-Management-PVM-Strategy-Dashboard/6a1421759faed54e9c692a5638b70a75932a4204/Revenue%20Growth%20Management%20Dashboard%20Image.png)
 
 > Interactive Power BI dashboard with four cross-functional slicers (Category, Tier, Region, Channel). Each visual answers exactly one executive question. Toggle slicers to stress-test the PVM framework against individual business units.
 
