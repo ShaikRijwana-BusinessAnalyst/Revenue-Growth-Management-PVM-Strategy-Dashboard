@@ -191,16 +191,9 @@ Annual upside = 3% × $28.60B volume base = $858M+
 ```
 📁 revenue-growth-management-pvm/
 ├── 📊 RGM_PVM_Dashboard.pbix          Power BI file — full interactive dashboard
-├── 📂 data/
-│   ├── 📋 sales_transactions.xlsx     Cleaned dataset (44,495 records)
-│   └── 📋 data_dictionary.xlsx        Field definitions and cleaning log
-├── 📂 images/
-│   ├── 🖼️  dashboard_preview.png      Full dashboard screenshot
-│   ├── 🖼️  waterfall_chart.png        PVM Bridge waterfall detail
-│   ├── 🖼️  regional_matrix.png        Region × Tier heatmap
-│   └── 🖼️  scatter_plot.png           Price vs. Volume growth scatter
-├── 📂 video/
-│   └── 🎬 pvm_dashboard_walkthrough.mp4   2-minute executive walkthrough
+├── 📂 data
+├── 🖼️  dashboard_preview.png      Full dashboard screenshot
+│   🎬 pvm_dashboard_walkthrough.mp4   2-minute executive walkthrough
 └── 📄 README.md
 ```
 
@@ -210,6 +203,7 @@ Annual upside = 3% × $28.60B volume base = $858M+
 
 Open to Senior Analyst, Business Intelligence Lead, and Commercial Strategy roles in retail, FMCG, and e-commerce.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-PROFILE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20More-4CAF50?style=for-the-badge)](https://your-portfolio-site.com)
-[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail)](mailto:your.email@domain.com)
+[![LinkedIn](www.linkedin.com/in/shaik-rijwana-6a8861290)
+
+[![Email](shaikrijwana54@gmail.com)
+
