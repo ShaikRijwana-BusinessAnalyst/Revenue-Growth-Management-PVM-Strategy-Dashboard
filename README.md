@@ -160,15 +160,7 @@ Annual upside = 3% × $28.60B volume base = $858M+
 
 ## Video Walkthrough
 
-▶️ **[Watch: 2-Minute PVM Strategy Walkthrough](video/pvm_dashboard_walkthrough.mp4)**
-
-| Timestamp | Content |
-|-----------|---------|
-| 0:00–0:20 | The Growth Paradox — why 0.11% is a warning, not a win |
-| 0:20–0:50 | The Volume-Mix Trap — $28.60B gain, $28.60B leak |
-| 0:50–1:30 | Five strategic views: heroes vs. zeroes, regional models, price elasticity |
-| 1:30–1:50 | Three surgical recommendations — $858M+ in trapped value |
-| 1:50–2:00 | From data janitors to revenue surgeons |
+▶️ **[https://drive.google.com/file/d/1VX_UVQEMKVaFQPPbXQnCETAOPXldyXEJ/view?usp=drivesdk]**
 
 ---
 
@@ -193,7 +185,6 @@ Annual upside = 3% × $28.60B volume base = $858M+
 ├── 📊 RGM_PVM_Dashboard.pbix          Power BI file — full interactive dashboard
 ├── 📂 data
 ├── 🖼️  dashboard_preview.png      Full dashboard screenshot
-│   🎬 pvm_dashboard_walkthrough.mp4   2-minute executive walkthrough
 └── 📄 README.md
 ```
 
